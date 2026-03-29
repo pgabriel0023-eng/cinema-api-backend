@@ -36,7 +36,7 @@ O projeto utiliza o padrão **Repository Pattern** com Herança para promover o 
 
 1. **Clone o repositório:**
    ```bash
-   git clone <link-do-seu-repositorio>
+   git clone https://github.com/pgabriel0023-eng/cinema-api-backend.git
    ```
 2. **Instale as dependências:**
    ```bash
